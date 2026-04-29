@@ -10,6 +10,10 @@ units- average units of the product sold per store on a given date
 sales- average revenue geberated by the product per store on a given date
 price- average price of the product on a given date
 
+<p align="center">
+  <img width="453" height="206" alt="image" src="https://github.com/user-attachments/assets/e74dc98e-36d5-4dee-be65-b3bc6864fc29" />
+</p>
+
 ## Summary of the findings
 
 The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches and breads over the one year period. Although there is no seasonal trend visible from the data, there is certainly a strong influence of the pricing of these products on their sales. The price of donuts influenced the sales of Latte which is visible from April to August 2025.
@@ -23,7 +27,7 @@ The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches an
 
 ## Recommendations
 
-<img width="453" height="206" alt="image" src="https://github.com/user-attachments/assets/e74dc98e-36d5-4dee-be65-b3bc6864fc29" />
+
 
 <img width="1192" height="641" alt="image" src="https://github.com/user-attachments/assets/3dd407f8-25d5-4120-8dcd-250730c704a6" />
 
