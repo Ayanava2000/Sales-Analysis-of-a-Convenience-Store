@@ -2,9 +2,9 @@
 
 The goal was to analyze the sales of a set of products in a convenient store located in the US from a 1 year daily sales data from September 2024 till August 2025.
 
-The description of the dataset can be found [here](#The Dataset).
+The description of the dataset can be found [here](#The-Dataset).
 
-The summary of the findings can be found [here](#Summary of the findings).
+The summary of the findings can be found [here]#Summary of the findings).
 
 A detailed sales trend analysis can be found [here](#Sales Trends).
 
