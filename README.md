@@ -15,9 +15,7 @@ price- average price of the product on a given date
 
 <img width="851" height="1018" alt="image" src="https://github.com/user-attachments/assets/db54f1cc-7390-46ce-99ac-62e97acad592" />
 
-<img width="1402" height="539" alt="image" src="https://github.com/user-attachments/assets/5c3902ed-f3c4-4b2f-b007-520dfef52148" />
 
-<img width="1383" height="586" alt="image" src="https://github.com/user-attachments/assets/dec2ba47-f3fc-452f-a786-dbf5babde1e4" />
 
 
 
