@@ -39,13 +39,10 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
 **Wings**-  As the price was increased from $2.8 to $3.6
 
 <div align="center">
-
-<img width="49%" alt="daily_units_price_plot" 
-src="https://github.com/user-attachments/assets/d0764c66-9a8e-4ca4-b0f7-3ffb60bca128" />
-
-<img width="49%" alt="weekly_units_price_revenue_plot" 
-src="https://github.com/user-attachments/assets/f8c13993-89b7-4adc-8ac5-cb2a82f1137c" />
-
+  <img width="48%" alt="daily_units_price_plot"
+  src="https://github.com/user-attachments/assets/d0764c66-9a8e-4ca4-b0f7-3ffb60bca128" />
+  <img width="48%" alt="weekly_units_price_revenue_plot"
+  src="https://github.com/user-attachments/assets/f8c13993-89b7-4adc-8ac5-cb2a82f1137c" />
 </div>
 
 
