@@ -59,11 +59,11 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
 
 ## Recommendations
 
-1. There is a high correlation between donut and Latte sales. When donut prices were reduced to $0.80, Latte sales also shot up even though the Latte price was not changed ($ 2.47). This implies that the customers prefer to buy combination of donut and Latte when the combination costs $3.3-$3.4.
+1. There is a strong positive correlation between Donut and Latte sales. When the Donut price was reduced to $0.80, Latte sales also increased significantly even though the Latte price remained unchanged at $2.47. This suggests that customers frequently purchase Donuts and Lattes together, especially when the combined price falls within the $3.3–$3.4 range. Introducing combo offers could further increase overall sales.
 
-2. There is an opportunity for more variety of coffee and donuts as their is a strong demand of these two products.
+2. The high demand for Donuts and Latte indicates an opportunity to expand the product variety in these categories. Adding more coffee options, or new donut variants could help attract  customers and increase average order value.
    
-3. Bread and sandwich sales have been steadily declining from March 2025. A demand of 120 units of bread and 500 units of sandwich are expected on a monthly basis at their respective current prices. 
+3. Bread and Sandwich sales have seen a gradual decline since March 2025 despite relatively stable pricing. Based on the recent trends, the expected monthly demand at current prices is approximately 120 units for Bread and 500 units for Sandwiches. This suggests a need to analyze the pricing, product to improve demand for these products. 
 
 
 
