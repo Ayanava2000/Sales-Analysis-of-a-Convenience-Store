@@ -1,13 +1,27 @@
 # Pricing-Analytics-Convenient-Store
 
-The goal was to analyze the price-demand elasticity of a set of products in a convenient store from a 1 year daily sales data.
+The goal was to analyze the price-demand elasticity of a set of products in a convenient store in the US from a 1 year daily sales data from September 2024 till August 2025.
 
 ## The Dataset
+The data ´set consists of the following columns:
 ds- Date
 Product- Latte, Donuts, Wings, Sandwiches and Bread
 units- average units of the product sold per store on a given date
 sales- average revenue geberated by the product per store on a given date
 price- average price of the product on a given date
+
+## Summary of the findings
+
+The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches and breads over the one year period. Although there is no seasonal trend visible from the data, there is certainly a strong influence of the pricing of these products on their sales. The price of donuts influenced the sales of Latte which is visible from April to August 2025.
+
+## Sales Trends of Latte,Donuts and Wings
+**Latte**- As the price was increased from $2.32 to $2.47 in January 2025, the sales dropped by 15% between January and March. However, the sales picked up between March and June with 5% monthly increase between March and May and a sharp 13% increase from May to June. June had the highest revenue of $12,000 at $2.475 unit price and 3,400 units sold.
+
+**Donuts**- As the price was reduced from $1.3 to $ 0.9 between September and November, the sales steadliy increased 1800 units to 2500 units per month. The sales remained the same with minor fluctuations (1-2%) as the price was steadily increased by 1% between November 2024 and April 2025. As the price was reduced from $0.95 to $0.80 in May, we notice a sharp increase in sales by 25% peaking at June. June had the hughest monthly sales of 3000 units and the highest monthly revenue of $4800. As the price was increased from $0.80 to $1 in July, teh sales dropped by 43% in July to 1700 monthly units sold.
+
+**Wings**-  
+
+## Recommendations
 
 <img width="453" height="206" alt="image" src="https://github.com/user-attachments/assets/e74dc98e-36d5-4dee-be65-b3bc6864fc29" />
 
