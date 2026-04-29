@@ -42,7 +42,7 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
   <img width="48%" style="vertical-align: top;"
   alt="daily_units_price_plot"
   src="https://github.com/user-attachments/assets/d0764c66-9a8e-4ca4-b0f7-3ffb60bca128" />
-  <img width="48%" height= "840" style="vertical-align: top;"
+  <img width="48%" height= "920" style="vertical-align: top;"
   alt="monthly_units_price_revenue_plot"
   src="https://github.com/user-attachments/assets/f80a2e53-e964-4736-9857-f4bc56dc7325" />
 </p>
