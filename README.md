@@ -45,11 +45,6 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
 ## Recommendations
 
 
-
-<img width="1192" height="641" alt="image" src="https://github.com/user-attachments/assets/3dd407f8-25d5-4120-8dcd-250730c704a6" />
-
-<img width="851" height="1018" alt="image" src="https://github.com/user-attachments/assets/db54f1cc-7390-46ce-99ac-62e97acad592" />
-
 <img width="1400" height="2100" alt="monthly_units_price_revenue_plot" src="https://github.com/user-attachments/assets/edababd5-3e80-40a0-9d6c-642235ed6bb3" />
 
 <img width="1400" height="2100" alt="weekly_units_price_revenue_plot" src="https://github.com/user-attachments/assets/c39a1312-d682-4c8a-af8e-1d4c873901a9" />
