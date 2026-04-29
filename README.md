@@ -29,14 +29,16 @@ src="https://github.com/user-attachments/assets/9aa26824-f32c-437f-ba4f-289eade9
 src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483cfd9" />
 </div>
 
-
-
 ## Sales Trends
 **Latte**- As the price was increased from $2.32 to $2.47 in January 2025, the sales dropped by 15% between January and March. However, the sales picked up between March and June with 5% monthly increase between March and May and a sharp 13% increase from May to June. June had the highest revenue of $12,000 at $2.475 unit price and 3,400 units sold.
 
 **Donuts**- As the price was reduced from $1.3 to $ 0.9 between September and November, the sales steadliy increased 1800 units to 2500 units per month. The sales remained the same with minor fluctuations (1-2%) as the price was steadily increased by 1% between November 2024 and April 2025. As the price was reduced from $0.95 to $0.80 in May, we notice a sharp increase in sales by 25% peaking at June. June had the hughest monthly sales of 3000 units and the highest monthly revenue of $4800. As the price was increased from $0.80 to $1 in July, teh sales dropped by 43% in July to 1700 monthly units sold.
 
-**Wings**-  As the price was increased from $2.8 to $3.6
+**Wings**- As the price declined from $3.2 to $2.75 between September and October 2024, the sales remained stable between 35 and 45 units per day with occasional fluctuations. From November 2024 to February 2025, the price gradually increased from $2.8 to $3.5, while the sales remained largely unchanged around 40 units per day. Between March and June 2025, despite the price increasing further from $3.3 to nearly $3.8, the sales showed minimal growth and fluctuated between 30 and 45 units per day, indicating relatively low price sensitivity. However, as the price started declining after June, the sales remained volatile with occasional sharp spikes, including the highest peak of over 90 units sold in a single day.
+
+**Bread**- As the price was reduced from approximately $3.96 to $3.84 between September and December 2024, the daily sales remained relatively stable around 4 units per day with minor fluctuations. Between January and March 2025, the price gradually increased from $3.85 to $3.95, accompanied by a moderate rise in sales, peaking at around 5 units per day in March. From April to July, despite the price remaining mostly stable between $3.91 and $3.94, the sales gradually declined from 4.5 units to below 4 units per day. Occasional spikes in sales were observed in March and August, with the highest sales touching nearly 7 units sold in a day.
+
+**Sandwich**- As the price steadily increased from $5.2 to $5.8 between September 2024 and March 2025, the sales also increased from around 15 units to over 22 units per day, indicating strong demand despite rising prices. Between March and June 2025, the price remained relatively stable around $5.85, while sales fluctuated between 18 and 24 units per day with several sharp peaks. However, as the price slightly declined from $5.8 to $5.7 between June and August, the sales gradually dropped, reaching nearly 12 units per day by August. The highest daily sales were recorded around March-April 2025, peaking at approximately 25 units sold.
 
 <p align="center">
   <img width="48%" style="vertical-align: top;"
