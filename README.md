@@ -25,9 +25,8 @@ The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches an
 <img width="45%" alt="total_units_sold_per_product_by_month" 
 src="https://github.com/user-attachments/assets/9aa26824-f32c-437f-ba4f-289eade97503" />
 
-<img width="45%" alt="average_monthly_price_trend" 
-src="https://github.com/user-attachments/assets/118afdb5-9cf7-46b8-8d71-7f29fc6c7bd8" />
-
+<img width="45%" alt="average_monthly_price_trend (1)" 
+src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483cfd9" />
 </div>
 
 
