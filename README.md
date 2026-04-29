@@ -25,7 +25,11 @@ The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches an
 
 **Donuts**- As the price was reduced from $1.3 to $ 0.9 between September and November, the sales steadliy increased 1800 units to 2500 units per month. The sales remained the same with minor fluctuations (1-2%) as the price was steadily increased by 1% between November 2024 and April 2025. As the price was reduced from $0.95 to $0.80 in May, we notice a sharp increase in sales by 25% peaking at June. June had the hughest monthly sales of 3000 units and the highest monthly revenue of $4800. As the price was increased from $0.80 to $1 in July, teh sales dropped by 43% in July to 1700 monthly units sold.
 
-**Wings**-  
+**Wings**-  As the price was increased from $2.8 to $3.6
+
+<p align="center">
+  <img width="1500" height="3000" alt="daily_units_price_plot (1)" src="https://github.com/user-attachments/assets/d0764c66-9a8e-4ca4-b0f7-3ffb60bca128" />
+</p>
 
 ## Recommendations
 
