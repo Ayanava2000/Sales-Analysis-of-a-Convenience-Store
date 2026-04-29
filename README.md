@@ -31,7 +31,7 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
 
 
 
-## Sales Trends of Latte,Donuts and Wings
+## Sales Trends
 **Latte**- As the price was increased from $2.32 to $2.47 in January 2025, the sales dropped by 15% between January and March. However, the sales picked up between March and June with 5% monthly increase between March and May and a sharp 13% increase from May to June. June had the highest revenue of $12,000 at $2.475 unit price and 3,400 units sold.
 
 **Donuts**- As the price was reduced from $1.3 to $ 0.9 between September and November, the sales steadliy increased 1800 units to 2500 units per month. The sales remained the same with minor fluctuations (1-2%) as the price was steadily increased by 1% between November 2024 and April 2025. As the price was reduced from $0.95 to $0.80 in May, we notice a sharp increase in sales by 25% peaking at June. June had the hughest monthly sales of 3000 units and the highest monthly revenue of $4800. As the price was increased from $0.80 to $1 in July, teh sales dropped by 43% in July to 1700 monthly units sold.
@@ -50,9 +50,6 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
 ## Recommendations
 
 
-<img width="1400" height="2100" alt="monthly_units_price_revenue_plot" src="https://github.com/user-attachments/assets/edababd5-3e80-40a0-9d6c-642235ed6bb3" />
-
-<img width="1400" height="2100" alt="weekly_units_price_revenue_plot" src="https://github.com/user-attachments/assets/c39a1312-d682-4c8a-af8e-1d4c873901a9" />
 
 <img width="1000" height="600" alt="daily_units_scatter_plot" src="https://github.com/user-attachments/assets/616e540e-cf98-4d55-bbbb-97fea5ab0da5" />
 
