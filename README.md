@@ -11,13 +11,9 @@ price- average price of the product on a given date
 
 <img width="453" height="206" alt="image" src="https://github.com/user-attachments/assets/e74dc98e-36d5-4dee-be65-b3bc6864fc29" />
 
-
-<img width="1072" height="582" alt="image" src="https://github.com/user-attachments/assets/6618d90d-bdcb-4afe-a82b-187d0fce5361" />
+<img width="1192" height="641" alt="image" src="https://github.com/user-attachments/assets/3dd407f8-25d5-4120-8dcd-250730c704a6" />
 
 <img width="851" height="1018" alt="image" src="https://github.com/user-attachments/assets/db54f1cc-7390-46ce-99ac-62e97acad592" />
-
-
-<img width="1192" height="641" alt="image" src="https://github.com/user-attachments/assets/3dd407f8-25d5-4120-8dcd-250730c704a6" />
 
 <img width="1402" height="539" alt="image" src="https://github.com/user-attachments/assets/5c3902ed-f3c4-4b2f-b007-520dfef52148" />
 
