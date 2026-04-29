@@ -1,8 +1,8 @@
 # Pricing-Analytics-Convenient-Store
 
-The goal was to analyze the daily pricing and sales data of a set of products in a convenient store over a 1 year period. September 2024-August 2025 and identify any new sales insights and price elasticity of the products. 
+The goal was to analyze the price-demand elasticity of a set of products in a convenient store from a 1 year daily sales data.
 
-**The Dataset**
+## The Dataset
 ds- Date
 Product- Latte, Donuts, Wings, Sandwiches and Bread
 units- average units of the product sold per store on a given date
