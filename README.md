@@ -1,6 +1,14 @@
 # Pricing-Analytics-Convenient-Store
 
-The goal was to analyze the price-demand elasticity of a set of products in a convenient store located in the US from a 1 year daily sales data from September 2024 till August 2025.
+The goal was to analyze the sales of a set of products in a convenient store located in the US from a 1 year daily sales data from September 2024 till August 2025.
+
+The description of the dataset can be found [here](#The Dataset).
+
+The summary of the findings can be found [here](#Summary of the findings).
+
+A detailed sales trend analysis can be found [here](#Sales Trends).
+
+Recommendations based on the analysis can be found [here](#Recommendations).
 
 ## The Dataset
 
@@ -18,7 +26,7 @@ price - average price of the product on a given date
 
 ## Summary of the findings
 
-The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches and breads over the one year period. Although there is no seasonal trend visible from the data, there is certainly a strong influence of the pricing of these products on their sales. The price of donuts influenced the sales of Latte which is visible from April to August 2025.
+The sales of Latte, Donuts and Wings showed more fluctuations than sandwiches and breads over the one year period. Although there is no seasonal trend identified in the data, there is certainly a strong influence of pricing of the products on their sales. From April 2025 onwards donuts and latte had a steady increase in sales. Additionally the price of donuts influenced the sales of Latte can also be identified.
 
 <div align="center">
 
@@ -51,9 +59,11 @@ src="https://github.com/user-attachments/assets/d6be567a-e550-4c98-aa5c-5c0e3483
 
 ## Recommendations
 
+1. There is a high correlation between donut and Latte sales. When donut prices were reduced to $0.80, Latte sales also shot up even though the Latte price was not changed ($ 2.47). This implies that the customers prefer to buy combination of donut and Latte when the combination costs $3.3-$3.4.
 
-
-<img width="1000" height="600" alt="daily_units_scatter_plot" src="https://github.com/user-attachments/assets/616e540e-cf98-4d55-bbbb-97fea5ab0da5" />
+2. There is an opportunity for more variety of coffee and donuts as their is a strong demand of these two products.
+   
+3. Bread and sandwich sales have been steadily declining from March 2025. A demand of 120 units of bread and 500 units of sandwich are expected on a monthly basis at their respective current prices. 
 
 
 
