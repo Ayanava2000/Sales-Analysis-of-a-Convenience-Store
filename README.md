@@ -1,4 +1,4 @@
-# Sales Analysis of a Convenient Store
+# Sales Analysis of a Convenience Store
 
 The goal was to analyze the sales of a set of products in a convenient store located in the US using 1 year of daily sales data from September 2024 to August 2025.
 
