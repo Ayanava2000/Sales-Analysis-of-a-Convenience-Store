@@ -19,6 +19,9 @@ price- average price of the product on a given date
 
 <img width="1400" height="2100" alt="weekly_units_price_revenue_plot" src="https://github.com/user-attachments/assets/c39a1312-d682-4c8a-af8e-1d4c873901a9" />
 
+<img width="1000" height="600" alt="daily_units_scatter_plot" src="https://github.com/user-attachments/assets/616e540e-cf98-4d55-bbbb-97fea5ab0da5" />
+
+
 
 
 
