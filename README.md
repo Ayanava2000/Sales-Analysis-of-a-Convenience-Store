@@ -1,6 +1,6 @@
 # Pricing-Analytics-Convenient-Store
 
-The goal was to analyze the price-demand elasticity of a set of products in a convenient store in the US from a 1 year daily sales data from September 2024 till August 2025.
+The goal was to analyze the price-demand elasticity of a set of products in a convenient store located in the US from a 1 year daily sales data from September 2024 till August 2025.
 
 ## The Dataset
 
